@@ -1,0 +1,1 @@
+Arquivo de teste 3: adicionando arquivos pela linha de comando
